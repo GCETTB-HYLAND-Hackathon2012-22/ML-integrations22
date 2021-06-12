@@ -17,6 +17,21 @@ Predictions
 
 Visit our website at [Miracurol 2.0](https://soumyajitnandi.000webhostapp.com/)
 
+## How to Contribute
+
+Sorry Devs, currently this project has been developed for [2021 VIRTUAL HYLAND HACKATHON](https://www.hyland.com/en/explore/hy-tech/tech-outreach-overview/hyland-hackathon)
+
+So we are not accepting any Contributions except from our fellow team mates.
+
+But it will be opened for Contributions after the end of this event.
+
+Hope to get with you all once opened for Contributions.
+
+
+## License
+
+Unlicensed
+
 ## Authors
 - [Apratim Sarkar](@axen46)
 - [Aritra Mondal](@Aritra-Mondal)
