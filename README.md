@@ -17,10 +17,11 @@ Visit our website at [Miracurol 2.0](https://soumyajitnandi.000webhostapp.com/)
 
 <!-- /Badge -->
 
-## List of our ML models 
+## List of all avialable models used in Miracurol 2.0 
 
-- [Chatbot](https://github.com/GCETTB-HYLAND-HACK-22/ML-integrations22/tree/main/ChatBot): A NLP based model designed to interect with the users and provide suggestive ways as per their needs
-- [Covid Checker](https://github.com/GCETTB-HYLAND-HACK-22/ML-integrations22/tree/main/Covid%20Checker): A Machine Learning based model to assess different symptoms and thus predict the probability of a person being a Covid Positive Person. This model is furthur implemented using Deep Learning also.
+- [Chatbot](/ChatBot): A NLP based model designed to interect with the users and provide suggestive ways as per their needs
+- [Covid Checker](/Covid%20Checker): A Machine Learning based model to assess different symptoms and thus predict the probability of a person being a Covid Positive Person. This model is furthur implemented using Deep Learning also.
+- [Diseases Detection from X-Ray](/Diseases%20Detection%20from%20X-Ray) A Deep Learning based model to assess X-Ray images and thus predict the probability of a person suffuring from different diseases which includes diseases like Bacterial Pneumonia, Viral Pneumonia, etc.
 
 
 ## How to Contribute
